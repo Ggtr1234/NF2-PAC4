@@ -1,7 +1,7 @@
 class Menu:
     @staticmethod
     def mostrar_menu_principal():
-        print("Benvingut a la gestió de clients:")
+        print("Gestió de clients:")
         print("===========================")
         print("Tria una opcio y prem Intro")
         print("===========================")
